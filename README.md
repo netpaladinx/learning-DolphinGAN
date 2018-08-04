@@ -1,5 +1,5 @@
-# learning-GAANs
-Generative adversarial and approbatory networks (GAANs)
+# learning-DolphinGAN
+Adversarial & Approbatory
 
 ## Basic idea
 - (Chinese saying) red face and white face
